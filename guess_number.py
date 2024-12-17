@@ -12,5 +12,5 @@ while True:
         print('Ваше число меньше того, что загадано')
     elif player_number == random_number:
         print('Отличная интуиция! Вы угадали число :)')    
-     
+        break
 
